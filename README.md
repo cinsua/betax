@@ -1,5 +1,8 @@
 # Betax
 
+mix backtest --strategy Arbitrage --limit 10
+
+
 betax/
 ├── lib/
 │   ├── mix/tasks/
